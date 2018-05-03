@@ -1,0 +1,12 @@
+11-black-holes-of-devops-wp.pdf
+
+
+https://github.com/shaileshpayasi/myappsample.git
+
+Error
+
+Pushing to https://github.com/shaileshpayasi/myappsample.git
+To https://github.com/shaileshpayasi/myappsample.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/shaileshpayasi/myappsample.git'
+hint: Updates were rejected because the tip of your current branch is behind its remote counterpart. Integrate the remote changes (e.g.'git pull ...') before pushing again.See the 'Note about fast-forwards' in 'git push --help' for details.
